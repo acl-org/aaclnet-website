@@ -1,1 +1,70 @@
-Hello World
+---
+layout: default
+title: ''
+pageclass: frontpage
+root: ./
+---
+
+    <div class="jumbotron visible-md visible-lg visible-sm" style="overflow: auto;">
+        <div class="container">
+            <div class="page-header">
+              <h2>The Asian Chapter of the Association for Computational Linguistics</h2>
+	      <!--
+	      <p><a class="btn btn-primary btn-large" href="elections/2016/index.html">Elections for 2016 members &raquo;</a></p>
+	      -->
+	    </div>
+	    <div class="linker">
+          <div class="row">
+            <div class="col-md-12">
+              <h1>AACL 2018</h1>
+              <p>The 2018 Conference of the Association for Computational Linguistics will be held in New Orleans, Louisiana, June 1 - June 6, 2018.</p>
+              <p><a class="btn btn-primary btn-large" href="http://naacl2018.org">Visit the conference website &raquo;</a></p>
+            </div>
+          </div> <!-- row -->
+	    </div>
+	    <!--
+            <div class="row">
+                <div class="col-md-4">
+                    <p><img width="320px" height="auto" src="{{ site.baseurl }}/images/naacl-poster-sm.jpg" alt="NAACL Poster"></p>
+                </div>
+                <div class="col-md-8">
+                    <div class="well well-sm"><p><small>The North American Chapter of the Association for Computational Linguistics (NAACL) provides a regional focus for members of the Association for Computational Linguistics (ACL) in North America and also in Central and South America. We organize the annual NAACL conference, and we promote cooperation and information exchange among related scientific and professional societies, encourage and facilitate ACL membership and provide information on regional activities to the ACL.</small></p></div>
+                    </div>
+                </div>
+            </div>
+	    -->
+        </div>
+    </div> <!-- jumbotron -->
+
+<div class="container">
+<div class="row">
+  <div class="col-md-9">
+  <h1>News</h1>
+  <div class="more">
+    <ul class="navigate">
+        {% assign lastyear = nil %}
+        {% for post in site.posts limit:5 %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% if year != lastyear %}
+            <li><a href="{{ site.baseurl }}/posts/index.html#year{{ year }}">{{ year }}</a></li>
+            {% assign lastyear = year %}
+        {% endif %}
+        {% endfor %}
+        <li><a href="{{ site.baseurl }}/posts/index.html">All</a></li>
+    </ul>
+  </div>
+  {% for post in site.posts limit:5 %}
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
+  {{ post.content }}
+  {% endfor %}
+  </div>
+  <div class="col-md-3 visible-sm visible-lg">
+  <a class="twitter-timeline" data-dnt=true href="https://twitter.com/naacl" data-widget-id="257327005056516096">Tweets by @naacl</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<p><a href="https://twitter.com/search/?q=%23naacl2015">Tweets about #naacl2015</a></p>
+<p><a href="https://twitter.com/search/?q=%23acl14nlp">Tweets about #acl14nlp</a></p>
+<p><a href="https://twitter.com/search/?q=%23naacl2013">Tweets about #naacl2013</a></p>
+  </div><!--/span-->
+</div>
+</div>
+

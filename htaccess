@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: .htaccess
+---
+AddCharset UTF-8 .html
