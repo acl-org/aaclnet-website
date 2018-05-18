@@ -6,8 +6,9 @@ group: "navigation"
 root: ../
 ---
 
-### Minutes of the NAACL Board Meetings
+### Minutes of the AACL Board Meetings
 
+<!-- 
 <ul>
 {% for year in (2000..2016) reversed %}
 
@@ -18,4 +19,5 @@ root: ../
 {% endfor %}
 
 </ul>
+ -->
 

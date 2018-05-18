@@ -1,22 +1,26 @@
 ---
 layout: default
-title: NAACL Officers 2018
+title: AACL Officers 2018
 root: ../
 ---
 
-{% include officers_year_list %}
+<!-- {% include officers_year_list %} -->
 
 Officers
 --------
 
-|            |                  |                           |           |
-|------------|------------------|---------------------------|-----------|
-| Chair      | Julia Hockenmaier| University of Illinois    | 2018-2019 |
-| Secretary  | Colin Cherry     | Google                    | 2018-2019 |
-| Treasurer  | Joel Tetreault   | Grammarly                 | 2017-2018 |
-| Past Chair | Emily M. Bender  | University of Washington  | 2018-2019 |
+|            |                  |                           				|           |
+|------------|------------------|-------------------------------------------|-----------|
+| Chair      | Haifeng Wang		| Baidu, China			    				| 2018-2019 |
+| Chair-elect| Keh-Yih Su		| Institute of Information Science, Taiwan	| 2018-2019 |
+| Secretary  | Yang Liu	        | Tsinghua University, China          		| 2018-2019 |
+| Treasurer  | Seung-won Hwang  | Yonsei University, Korea     				| 2018-2019 |
+| At large   | Yusuke Miyao     | National Institute of Informatics, Japan 	| 2018-2019 |
+| At large   | Jian Su          | Institute for Infocomm Research, Singapore| 2018-2019 |
+| At large   | Mark Dras        | Macquarie University, Australia  		    | 2018-2019 |
 
 
+<!-- 
 Executive Board
 ---------------
 
@@ -185,6 +189,7 @@ Luke Zettlemoyer is an Associate Professor in the Allen School of Computer Scien
 #### Candidacy Statement
 
 NAACL is a healthy, growing community. I think that, overall, we should be careful to maintain the high quality of the conference, while making incremental adjustments to improve reviewing quality, inclusiveness, institutional memory, support for interdisciplinary research, and recognition of high quality work.
+ -->
 
 
 <script>
