@@ -39,4 +39,4 @@ The aaclweb.org website is maintained by AACL webmaster [Luu Anh Tuan](https://s
 
 This website was designed and developed based on the source of NAACL website [naacl-org github repository](https://github.com/naacl-org/naacl-org.github.com) using [jekyll](http://jekyllrb.com/) and is hosted on [github](http://github.com).
 
-Thanks to the colleagues from [Baidu](http://www.baidu.com/) for helping to get the domain name for this website, especially thanks to Wang Haifeng, He Wei and Ma Yanjun.
+Thanks to Baidu colleagues He Wei and Ma Yanjun on getting the URL.
