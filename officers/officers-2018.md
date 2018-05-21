@@ -11,13 +11,13 @@ Officers of AACL executive board
 
 |            |                  |                           				|           |
 |------------|------------------|-------------------------------------------|-----------|
-| Chair      | Haifeng Wang		| Baidu, China			    				| 2018-2019 |
-| Chair-elect| Keh-Yih Su		| Institute of Information Science, Taiwan	| 2018-2019 |
-| Secretary  | Yang Liu	        | Tsinghua University, China          		| 2018-2019 |
-| Treasurer  | Seung-won Hwang  | Yonsei University, Korea     				| 2018-2019 |
-| At large   | Yusuke Miyao     | National Institute of Informatics, Japan 	| 2018-2019 |
-| At large   | Jian Su          | Institute for Infocomm Research, Singapore| 2018-2019 |
-| At large   | Mark Dras        | Macquarie University, Australia  		    | 2018-2019 |
+| Chair      | Haifeng Wang		| Baidu, China			    				| 2018-2020 |
+| Chair-elect| Keh-Yih Su		| Institute of Information Science, Taiwan	| 2018-2020 |
+| Secretary  | Yang Liu	        | Tsinghua University, China          		| 2018-2020 |
+| Treasurer  | Seung-won Hwang  | Yonsei University, Korea     				| 2018-2020 |
+| At large   | Yusuke Miyao     | National Institute of Informatics, Japan 	| 2018-2020 |
+| At large   | Jian Su          | Institute for Infocomm Research, Singapore| 2018-2020 |
+| At large   | Mark Dras        | Macquarie University, Australia  		    | 2018-2020 |
 
 
 <!-- 
