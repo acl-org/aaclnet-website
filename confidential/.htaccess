@@ -1,0 +1,4 @@
+<Files ~ “\.docx$">
+Order Allow,Deny
+Deny from All
+</Files>
