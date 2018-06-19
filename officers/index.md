@@ -16,7 +16,7 @@ root: ../
 Officers of AACL executive board
 --------------------------------
 
-|            |                  |                           				|           |
+| Position   | Name             | Affiliation, Country / territory    		| Term      |
 |------------|------------------|-------------------------------------------|-----------|
 | Chair      | Haifeng Wang		| Baidu, China			    				| 2018-2020 |
 | Chair-elect| Keh-Yih Su		| Institute of Information Science, Taiwan	| 2018-2020 |
