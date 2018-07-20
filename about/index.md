@@ -38,6 +38,6 @@ Other ACL Chapters:
 
 The aaclweb.org website is maintained by AACL webmaster [Luu Anh Tuan](https://sites.google.com/site/tuanluu219/).
 
-This website was designed and developed using [jekyll](http://jekyllrb.com/) and is hosted on [github](http://github.com).
+This website was designed and developed based on the source of [NAACL website](https://github.com/naacl-org/naacl-org.github.com) using [jekyll](http://jekyllrb.com/) and is hosted on [github](http://github.com).
 
 Thanks to He Wei and Ma Yanjun from Baidu on settling the URL for this website.
