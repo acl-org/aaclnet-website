@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) was Launched (Announcement of AACL from ACL president Marti Hearst)"
+title: "The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) was launched"
 root: ../../
 ---
 
