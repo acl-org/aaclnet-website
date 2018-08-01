@@ -8,7 +8,7 @@ root: ../
 
 
 <p>
-<img width="450px" height="auto" src="{{ site.baseurl }}/images/asia-pacific.jpg" alt="AACL Poster">
+<img width="500px" height="auto" src="{{ site.baseurl }}/images/asia-pacific.png" alt="AACL Poster">
 
 </p>
 
