@@ -24,9 +24,9 @@ To facilitate conference organization, bidders may delegate many tasks of
 their choice to a Professional Conference Organizer and/or to the ACL Office 
 (Priscilla Rasmussen). Handy bid guidelines, including expense and task list 
 templates and additional useful links are provided at: 
-https://protect-au.mimecast.com/s/b51QCVARmOHlNEWOfQINd0?domain=aclweb.org 
+[https://protect-au.mimecast.com/s/b51QCVARmOHlNEWOfQINd0?domain=aclweb.org](https://protect-au.mimecast.com/s/b51QCVARmOHlNEWOfQINd0?domain=aclweb.org) 
 [1]. The template for local expenses is available here: 
-https://protect-au.mimecast.com/s/3zuECWLVn6ijRQMlHpqcOK?domain=ftp.cs.t... 
+[https://protect-au.mimecast.com/s/3zuECWLVn6ijRQMlHpqcOK?domain=ftp.cs.t...](https://protect-au.mimecast.com/s/3zuECWLVn6ijRQMlHpqcOK?domain=ftp.cs.t...) 
 [2].
 
 Bid Highlights: Draft proposals include information on the following:
@@ -107,8 +107,10 @@ Haifeng Wang
 Chair of AACL/IJCNLP 2020 Coordinating Committee
 Senior Vice President, Baidu
 
-Read more: https://www.aclweb.org/portal/content/call-bids-aaclijcnlp-2020
+Read more: [https://www.aclweb.org/portal/content/call-bids-aaclijcnlp-2020](https://www.aclweb.org/portal/content/call-bids-aaclijcnlp-2020)
 
-[1] https://protect-au.mimecast.com/s/b51QCVARmOHlNEWOfQINd0?domain=aclweb.org
-[2] https://protect-au.mimecast.com/s/3zuECWLVn6ijRQMlHpqcOK?domain=ftp.cs.toronto.edu
+[1] [https://protect-au.mimecast.com/s/b51QCVARmOHlNEWOfQINd0?domain=aclweb.org](https://protect-au.mimecast.com/s/b51QCVARmOHlNEWOfQINd0?domain=aclweb.org)
+
+[2] [https://protect-au.mimecast.com/s/3zuECWLVn6ijRQMlHpqcOK?domain=ftp.cs.toronto.edu](https://protect-au.mimecast.com/s/3zuECWLVn6ijRQMlHpqcOK?domain=ftp.cs.toronto.edu)
+
 [3] mailto:aacl-ijcnlp-ccc2020@aclweb.org
