@@ -16,16 +16,29 @@ root: ../
 Officers of AACL executive board
 --------------------------------
 
-| Position   | Name             | Affiliation, Country / territory    		| Term      |
-|------------|------------------|-------------------------------------------|-----------|
-| Chair      | Haifeng Wang		| Baidu, China			    				| 2018-2020 |
-| Chair-elect| Keh-Yih Su		| Institute of Information Science, Taiwan	| 2018-2020 |
-| Secretary  | Yang Liu	        | Tsinghua University, China          		| 2018-2020 |
-| Treasurer  | Seung-won Hwang  | Yonsei University, Korea     				| 2018-2020 |
-| At large   | Yusuke Miyao     | National Institute of Informatics, Japan 	| 2018-2020 |
-| At large   | Jian Su          | Institute for Infocomm Research, Singapore| 2018-2020 |
-| At large   | Mark Dras        | Macquarie University, Australia  		    | 2018-2020 |
+<h3>Officers for 2021-2022</h3>
 
+| Position   | Name             | Affiliation, Country / territory    		| 
+|------------|------------------|-------------------------------------------|
+| Chair      | Keh-Yih Su		| Institute of Information Science, Taiwan	|
+| Chair-elect| Jian Su			| Institute for Infocomm Research, Singapore|
+| Secretary  | Wanxiang Che	    | Harbin Institute of Technology, China		|
+| Treasurer  | Mark Dras		| Macquarie University, Australia 			|
+| At large   | Akiko Aizawa     | National Institute of Informatics, Japan 	|
+| At large   | Xuanjing Huang   | Fudan University, China					|
+| At large   | Thepchai Supnithi| National Electronics and Computer Technology Center, Thailand  		    |
+
+<br>
+<h3>Officers for 2018-2020</h3>
+
+| Position   | Name             | Affiliation, Country / territory    		|
+|------------|------------------|-------------------------------------------|
+| Chair      | Haifeng Wang		| Baidu, China			    				|
+| Chair-elect| Keh-Yih Su		| Institute of Information Science, Taiwan	|
+| Secretary  | Yang Liu	        | Tsinghua University, China          		|
+| Treasurer  | Seung-won Hwang  | Yonsei University, Korea     				|
+| At large   | Yusuke Miyao     | National Institute of Informatics, Japan 	|
+| At large   | Jian Su          | Institute for Infocomm Research, Singapore|
 <script>
    var tables, i;
    tables = document.getElementsByTagName('table');
