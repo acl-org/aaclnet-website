@@ -16,9 +16,6 @@ root: ../
 Officers of AACL executive board
 --------------------------------
 
-Officers of AACL executive board
---------------------------------
-
 <h3>Officers for 2021-2022</h3>
 
 | Position   | Name             | Affiliation, Country / territory    		| 
