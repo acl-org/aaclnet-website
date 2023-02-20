@@ -15,6 +15,18 @@ root: ../
 
 Officers of AACL executive board
 --------------------------------
+<h3>Officers for 2023-2024</h3>
+
+| Position   | Name             | Affiliation, Country / territory    		| 
+|------------|------------------|-------------------------------------------|
+| Chair      | Jian Su			| Institute for Infocomm Research, Singapore|
+| Chair-elect   | Xuanjing Huang   | Fudan University, China					|
+| Secretary  | Wanxiang Che	    | Harbin Institute of Technology, China		|
+| Treasurer  | Mark Dras		| Macquarie University, Australia 			|
+| At large   | Akiko Aizawa     | National Institute of Informatics, Japan 	|
+| At large   | Thepchai Supnithi| National Electronics and Computer Technology Center, Thailand  		    |
+| At large   | Pushpak Bhattacharyya| IIT Bombay, India 		    |
+
 
 <h3>Officers for 2021-2022</h3>
 
