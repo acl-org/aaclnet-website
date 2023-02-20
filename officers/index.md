@@ -27,7 +27,7 @@ Officers of AACL executive board
 | At large   | Thepchai Supnithi| National Electronics and Computer Technology Center, Thailand  		    |
 | At large   | Pushpak Bhattacharyya| IIT Bombay, India 		    |
 
-
+<br>
 <h3>Officers for 2021-2022</h3>
 
 | Position   | Name             | Affiliation, Country / territory    		| 
