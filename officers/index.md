@@ -27,7 +27,13 @@ Officers of AACL executive board
 | At large   | Thepchai Supnithi| National Electronics and Computer Technology Center, Thailand  		    |
 | At large   | Pushpak Bhattacharyya| IIT Bombay, India 		    |
 
+
+<h3>Nominating Committee</h3>
+* Yang Liu (Chair)
+* Haifeng Wang
+* Yusuke Miyao
 <br>
+
 <h3>Officers for 2021-2022</h3>
 
 | Position   | Name             | Affiliation, Country / territory    		| 
@@ -39,6 +45,13 @@ Officers of AACL executive board
 | At large   | Akiko Aizawa     | National Institute of Informatics, Japan 	|
 | At large   | Xuanjing Huang   | Fudan University, China					|
 | At large   | Thepchai Supnithi| National Electronics and Computer Technology Center, Thailand  		    |
+
+<h3>Nominating Committee</h3>
+* Haifeng Wang (Chair)
+* Keh Yih Su
+* Yang Liu
+<br>
+
 
 <br>
 <h3>Officers for 2018-2020</h3>
