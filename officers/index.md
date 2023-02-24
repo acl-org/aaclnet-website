@@ -52,8 +52,6 @@ Officers of AACL executive board
 * Yang Liu
 <br>
 
-
-<br>
 <h3>Officers for 2018-2020</h3>
 
 | Position   | Name             | Affiliation, Country / territory    		|
