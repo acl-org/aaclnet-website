@@ -11,7 +11,7 @@ root: ../
 <script language="Javascript">
 <!--hide
 var password
-var pass1 = "aacl2018executive"
+var pass1 = "aacl2023executive"
 password = prompt('This page is exclusively for Executive Board only. Please enter the password to continue. ',' ');
 if (password != pass1){
 	alert('The password is incorrect, click OK to continue');
