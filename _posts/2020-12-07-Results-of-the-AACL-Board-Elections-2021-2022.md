@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results of the AACL Board Elections"
+title: "Results of the AACL Board Elections 2021-2022"
 root: ../../
 ---
 
