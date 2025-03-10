@@ -31,7 +31,7 @@ You can join AACL by joining our parent organization, ACL:
 
 Other ACL Chapters:
 
-- [EACL](http://www.eacl.org/page.php?id=index) : The European Chapter of the ACL
+- [EACL](https://eacl.org/) : The European Chapter of the ACL
 - [NAACL](http://naacl.org/) : The North American Chapter of the ACL
  
 ### About the aaclweb.org website
