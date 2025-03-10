@@ -15,6 +15,26 @@ root: ../
 
 Officers of AACL executive board
 --------------------------------
+<h3>Officers for 2025-2026</h3>
+
+| Position   | Name             | Affiliation, Country / territory    		                                | 
+|------------|------------------|-----------------------------------------------------------------------|
+| Chair      | Xuanjing Huang   | Fudan University, China					                                          |
+| Chair-elect   | Maggie, Wenjie Li   | The Hong Kong Polytechnic University, Hong Kong					                  |
+| Secretary  | Thepchai Supnithi	    | National Electronics and Computer Technology Center, Thailand		 |
+| Treasurer  | Mark Dras		| Macquarie University, Australia 			                                   |
+| At large   | Daisuke Kawahara     | Waseda University, Japan 	                                            |
+| At large   | Lun-Wei Ku| Academia Sinica, Taiwan  		                                           |
+| At large   | Taro Watanabe| Nara Institute of Science and Technology, Japan 		                    |
+
+
+<h3>Nominating Committee</h3>
+* Wanxiang Che (Chair)
+* Keh-Yih Su
+* Yusuke Miyao
+* Akiko Aizawa
+<br>
+
 <h3>Officers for 2023-2024</h3>
 
 | Position   | Name             | Affiliation, Country / territory    		| 
