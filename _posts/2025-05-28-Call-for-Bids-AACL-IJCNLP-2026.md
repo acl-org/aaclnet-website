@@ -13,7 +13,7 @@ The AACL-IJCNLP 2026 Coordinating Committee, made up of representatives of the A
 To facilitate conference organization, bidders may delegate many tasks of their choice to a Professional Conference Organizer and/or to the ACL Office. Handy bid guidelines, including expense and task list templates and additional useful links are provided at:
 [https://www.aclweb.org/adminwiki/index.php/Bid_Guidelines](https://www.aclweb.org/adminwiki/index.php/Bid_Guidelines)
 
-The template for local expenses is available here: [http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx](http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx)
+The template for local expenses is available here: [http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx](http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx) (If it doesn't download automatically, please right-click and choose "Save Link As...")
 
 Bid Highlights:
 Draft proposals include information on the following:
