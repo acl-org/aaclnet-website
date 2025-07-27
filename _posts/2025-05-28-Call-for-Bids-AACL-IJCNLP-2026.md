@@ -11,9 +11,9 @@ The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)
 The AACL-IJCNLP 2026 Coordinating Committee, made up of representatives of the AACL and representatives from the AFNLP, will select the General Chair and the Program Committee Co-Chairs for the conference. Draft proposals should identify a Local Arrangements Chair, who will work with the General Chair and the Coordinating Committee to develop a detailed plan and budget.
 
 To facilitate conference organization, bidders may delegate many tasks of their choice to a Professional Conference Organizer and/or to the ACL Office. Handy bid guidelines, including expense and task list templates and additional useful links are provided at:
-https://www.aclweb.org/adminwiki/index.php/Bid_Guidelines
+[https://www.aclweb.org/adminwiki/index.php/Bid_Guidelines](https://www.aclweb.org/adminwiki/index.php/Bid_Guidelines)
 
-The template for local expenses is available here: http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx
+The template for local expenses is available here: [http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx](http://ftp.cs.toronto.edu/pub/gh/ACL-conference-bid-template-CURRENT.xlsx)
 
 Bid Highlights:
 Draft proposals include information on the following:
